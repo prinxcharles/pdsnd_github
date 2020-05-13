@@ -15,6 +15,7 @@ new-york-city.csv
 chicago.csv
 
 All files were gotten from Udacity and the had undergone data wrangling and cleaning.
+There are 10,000 entries for each of them.
 
 ### Credits
 Udacity.com
