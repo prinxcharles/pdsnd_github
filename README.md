@@ -1,15 +1,18 @@
 ### Date created
-Include the date you created this project and README file.
+13/05/2020
 
 ### Project Title
-Replace the Project Title
+Charles Bikeshare Data Project
 
 ### Description
-Describe what your project is about and what it does
+This project explores the Bikeshare Data from three US Cities; Chicago, Washington and New York city.
+It creates data visualizations as well as summaries for stringent questions that could be asked.
 
 ### Files used
-Include the files used
+Files includes;
+i. chicago.csv
+ii. washington.csv
+iii. new-york-city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+This project was inspired by the Udacity Data Science course
